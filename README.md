@@ -1,3 +1,54 @@
+Welcome to CalebRatedCore!
+
+CalebRatedCore is my Minecraft Mod in progress, which is intended to be a modpack core in the future.
+None of the items have recipes, they will be added in later using Minetweaker.
+Built for 1.10.2 at the moment, as some important mods have yet to make the switch to 1.11.2.
+
+By itself, this mod still has a few interesting features:
+- Silk Touch is mostly useless. Most (not all) vanilla blocks are obtainable by hand/with standard tool.
+- Stone will drop itself, rather than cobblestone.
+- Bookshelves, Glass/Glass Panes and Ender Chests will all drop themselves. Glass and Bookshelves can be broken by hand.
+- Logs can't be punched. You need an axe. -_-
+- Leaves have a high chance of dropping sticks.
+- Apples no longer drop from oak leaves.
+- Obsidian has been nerfed big time. Only requires iron pickaxe, and blast resistance equivalent to stone.
+- Clippers - Similar to shears, but sheep drop uncoloured fleece, rather than wool. Intended as shears replacement.
+- Bronze/Steel Saws and Work Tools. Intended to fill the gaps in PrimalCore (which will be part of the modpack). Note that my Work Tools are incapable of in-world recipes at the moment.
+- Zinc Ore Generation (Configurable) - Note that there are no zinc ingots/nuggets/etc included. Recommended you disable it if you don't have any mods that need/use zinc.
+
+Not so interesting things:
+- Bronze Tools/Armour - May be removed, as IC2 already has these. Only added them as a test.
+- Planks, Bricks, Fleece, and random components - Useless by themselves. Intended as parts for other blocks. Work continues.
+
+If you find any bugs, just raise an issue. Details are important.
+
+Keep in mind that recipes, more configs, wikis, and updating to 1.11.2 (or even 1.12) are on the back burner whilst I focus on constructing the mod pack recipe base. I'm intending on changing pretty much everything, so it will take a while (assuming I do finish).
+
+So yeah, this mod isn't that great as of now, but if you want to download it, the links are below.
+
+
+Downloads:
+Current File: http://www.mediafire.com/file/lcxa09fuo4fo5fs/calebratedcore-1.1.4.jar
+
+Open Source for Modders: http://www.mediafire.com/file/81fsmsf2amsc6ys/calebratedcore-1.1.4-sources.jar
+
+
+Notes About the Modpack
+Assuming I ever get it done, the modpack is intended to have progression from several eras, with tools and machines made available as you advance: 
+-Stone, Bronze and Iron Age will rely on PrimalCore and Better Beginnings for progression. 
+-Medieval era will provide access to most non-machine mods. 
+-Industrial Era will begin and End with Immersive Engineering. More complex appliances, tools and weaponry will become available as you build IE machines. 
+-Digital era will become available when you have most IE machines constructed, IC2 will take over for compact/futuristic machinery. Pretty much the icing on the cake.
+
+I'm not personally a fan of magic, so I won't have magic mods, and I'm probably going to prevent enchanting in favour of smithing (planning on most tools having Fortune from the get go). I'll also allow players access to quartz and glowstone without needing nether access.
+
+Another important aspect is attempting to prevent blocks containing more than a blocks worth of materials (minus consumable parts). That is, a chest won't require 8 planks, only 4 boards and some wooden/metal pins as hinges (equivalent to one plank). Another key change is that 8 nuggets will equal 1 ingot, and 8 ingots equal one block. This will make things easily divisable.
+Unfortunately, this will mean that nearly every recipe will need to change.
+
+I'm still undecided whether to make crafting recipes more complex, or simplifying them as much as possible. At the moment I'm leaning complex with the Better Beginnings advanced crafting table being used for most crafting.
+
+
+
 Changelog
 
 1.1.4 	- Fixed a bug - breaking a log would sometimes drop a bookshelf. Will keep events separated in future.
