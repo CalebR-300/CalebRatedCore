@@ -1,0 +1,16 @@
+[
+{
+  "modid": "calebratedcore",
+  "name": "CalebRatedCore",
+  "description": "This mod is for CalebR to learn about modding. Eventually a modpack integration core.",
+  "version": "1.1.4",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CalebR"],
+  "credits": "Jabelar, ShadowFacts, coolAlias, Crare1, TheGreyGhost, Alex Couch, and BedRockMiner for tutorials. Big shout out to CJMinecraft, for excellent youTube tutorials. Thanks to Choonster and Bright_Spark for tips. Although some textures are original, most are mash ups from other mods, such as: TerraFirmaCraft, IC2, IE, Metallurgy, Gregtech, and PrimalCore.",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": ["mod_minecraftForge"]
+}
+]

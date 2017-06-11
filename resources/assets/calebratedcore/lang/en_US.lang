@@ -1,0 +1,115 @@
+# Items
+item.itemInterfaceScreen.name= Interface Screen
+item.itemFleece.name= Fleece
+item.itemCrushedBauxite.name= Crushed Bauxite Ore
+item.itemCrushedNickel.name= Crushed Nickel Ore
+item.itemCrushedZinc.name= Crushed Zinc Ore
+item.itemWoodPulp.name= Wood Pulp
+item.itemDustSand.name= Sand Dust
+item.itemTinyGlass.name= Small Glass Pane
+item.itemDustGlass.name= Glass Dust
+item.itemPlateSilicon.name= Silicon Plate
+item.itemTinySilicon.name= Small Silicon Plate
+item.itemPurifiedNickel.name= Crushed Purified Nickel Ore
+item.itemPurifiedBauxite.name= Crushed Purified Bauxite Ore
+item.itemPurifiedZinc.name= Crushed Purified Zinc Ore
+item.itemTinyQuartz.name= Quartz Crystal
+item.itemDustTinyNickel.name= Tiny Pile of Nickel Dust
+item.itemDustTinyBauxite.name= Tiny Pile of Bauxite Dust
+item.itemDustTinyZinc.name= Tiny Pile of Zinc Dust
+item.itemNuggetRedmetal.name= Redmetal Nugget
+item.itemGritInvar.name= Invar Grit
+item.itemPlateSlate.name= Slate Sheet
+item.itemDustTinyRedstone.name= Tiny Pile of Redstone Dust
+item.itemDustTinyGlowstone.name= Tiny Pile of Glowstone Dust
+item.itemDustTinyGunpowder.name= Tiny Pile of Gunpowder
+item.itemTinyClay.name= Small Clay Ball
+item.itemNuggetCokeCoal.name= Coke Coal Pellet
+item.itemNuggetPlastic.name= Plastic Pellet
+item.itemIngotPlastic.name= Plastic Bar
+item.itemDustDirt.name= Dirt Dust
+item.itemCastCeramic.name= Ceramic Cast
+item.itemCastUnfired.name= Unfired Ceramic Cast
+item.itemRodBronze.name= Bronze Rod
+item.itemRodSilver.name= Silver Rod
+item.itemRodInvar.name= Invar Rod
+item.itemRodBrass.name= Brass Rod
+item.itemPiston.name= Piston
+item.itemSpeaker.name= Speaker
+item.itemWireRedmetal.name= Redmetal Wire
+item.itemGearWood.name= Wooden Gear
+item.itemPlasticWeave.name= Plastic Weave
+
+item.itemBoardWood.Oak.name= Oak Board
+item.itemBoardWood.Spruce.name= Spruce Board
+item.itemBoardWood.Birch.name= Birch Board
+item.itemBoardWood.Jungle.name= Jungle Board
+item.itemBoardWood.Acacia.name= Acacia Board
+item.itemBoardWood.Darkoak.name= Dark Oak Board
+item.itemBoardWood.Treated.name= Treated Board
+
+item.itemBrick.Amphibolite.name= Amphibolite Brick
+item.itemBrick.Andesite.name= Andesite Brick
+item.itemBrick.Basalt.name= Basalt Brick
+item.itemBrick.Diorite.name= Diorite Brick
+item.itemBrick.Dolomite.name= Dolomite Brick
+item.itemBrick.Gneiss.name= Gneiss Brick
+item.itemBrick.Granite.name= Granite Brick
+item.itemBrick.Limestone.name= Limestone Brick
+item.itemBrick.Marble.name= Marble Brick
+item.itemBrick.Redsandstone.name= Red Sandstone Brick
+item.itemBrick.Sandstone.name= Sandstone Brick
+item.itemBrick.Stone.name= Stone Brick
+item.itemBrick.Endstone.name= Endstone Brick
+
+
+item.itemBronzeSword.name= Bronze Sword
+item.itemIronSword.name= Wrought Iron Sword
+
+item.itemBronzePickaxe.name= Bronze Pickaxe
+item.itemIronPickaxe.name= Wrought Iron Pickaxe
+
+item.itemBronzeAxe.name= Bronze Axe
+item.itemIronAxe.name= Wrought Iron Axe
+
+item.itemBronzeShovel.name= Bronze Shovel
+item.itemIronShovel.name= Wrought Iron Shovel
+
+item.itemBronzeHoe.name= Bronze Hoe
+item.itemIronHoe.name= Wrought Iron Hoe
+
+item.itemBronzeHelmet.name= Bronze Helmet
+item.itemBronzeChestplate.name= Bronze Chestplate
+item.itemBronzeLeggings.name= Bronze Leggings
+item.itemBronzeBoots.name= Bronze Boots
+
+item.itemBronzeClippers.name= Bronze Clippers
+item.itemFlintClippers.name= Flint Clippers
+item.itemQuartzClippers.name= Quartz Clippers
+item.itemIronClippers.name= Iron Clippers
+item.itemSteelClippers.name= Steel Clippers
+
+item.itemBronzeWorktool.name= Bronze Work Tool
+item.itemSteelWorktool.name= Steel Work Tool
+
+item.itemBronzeSaw.name= Bronze Saw
+item.itemSteelSaw.name= Steel Saw
+
+item.itemBronzeHammer.name= Bronze Gallagher
+item.itemSteelHammer.name= Steel Gallagher
+
+
+# Blocks
+tile.oreZinc.name=Zinc Ore
+
+
+# Creative Tab
+itemGroup.calebratedcore= CalebRatedCore
+
+
+# Configuration GUI Factory Entries
+gui.config.main_title=CalebRCore Configuration
+gui.config.category.blocks=Blocks
+gui.config.category.blocks.tooltip=All block and world gen settings.
+gui.config.blocks.zinc_world_gen= Generate Zinc Ore
+gui.config.blocks.zinc_world_gen.comment= If true, zinc ore will generate in the world. False to disable.
